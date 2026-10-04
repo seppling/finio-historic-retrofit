@@ -16,11 +16,13 @@ make you throw the window away.
 ## What the three sources actually are
 
 - **The video.** Brent Hull (Fort Worth millwork and restoration), uploaded
-  19 Sept 2026. The thesis is his long-running one: sealed insulating glass is
-  a 10 to 20 year product that fails before the wood does, so it makes windows
-  disposable. Hull has discussed Pilkington Spacia vacuum glass since at least
-  2022 as the way out. (YouTube blocked a transcript fetch, so the content is
-  inferred from the title, his prior posts, and the oEmbed metadata.)
+  19 Sept 2026, 427 comments at the time of writing. The thesis is his
+  long-running one: sealed insulating glass is a 10 to 20 year product that
+  fails before the wood does, so it makes windows disposable; Fineo is the way
+  out. YouTube blocks a transcript fetch from here, but the full comment
+  thread was pulled and Hull answers most questions himself. See
+  [`research/youtube-comments-digest.md`](research/youtube-comments-digest.md)
+  and the section below.
 - **100yearwindow.com.** Hull Millwork's new window line: sapele, solid stiles
   and rails, true divided lights, cast brass hardware. The default glass is
   1/8" single pane in putty, with "alternative glazing" for codes. It is a new
@@ -58,6 +60,12 @@ trade. Highlights:
 
 - Putty glazing is explicitly allowed, including full putty bed and an
   undrained, unventilated rebate. Stagnant water at the edge does not hurt it.
+  But "putty" in the document means a soft, certified sealant (modulus under
+  0.5 MPa, EN-approved). A knowledgeable European commenter on Hull's video
+  states flatly that linseed oil putty is not allowed and that Fineo wants
+  setting blocks rather than points. Traditional linseed putty hardens, so
+  assume it voids the warranty until AGC says otherwise in writing. This
+  matters for you because the putty bevel is what SHPOs look at.
 - Minimum glass bite 13 mm (15 mm preferred), 2–3 mm edge clearance, 4 mm of
   soft sealant on each face (modulus under 0.5 MPa). Putty bevel minimum
   10 × 10 mm.
@@ -92,6 +100,9 @@ Glass cost. UK trade pricing for Fineo 8 is about £340–390/m² (roughly
 $40–47/sq ft) before shipping, surcharge and tax, with a 10% volume discount.
 US retail VIG runs $60–150/sq ft; 2024 global factory pricing is quoted at
 $100–400/m². A typical 30" × 48" double hung has about 10 sq ft of glass.
+Hull, answering commenters, says Fineo "adds about $500 to a window" for a
+3 × 5 and "$300–400" elsewhere, which implies he is being quoted roughly
+$30–45/sq ft, in line with UK trade pricing rather than US retail.
 
 | Per window (1 or 2 lights, 10 sq ft) | Low | High |
 |---|---|---|
@@ -141,10 +152,12 @@ That argues for a pilot in one or two markets, not a system-wide rollout:
 4. Qualify by climate and house: zones 5–7, pre-1940, 1-3/8"+ sash, owners who
    have already rejected storms. Texas and Oklahoma heating loads make the
    comfort story weaker than in the Midwest and Northeast.
-5. Talk to Brent Hull. He is 200 miles away, he just asked for exactly this,
-   and he has no retrofit arm. A Hull-designed sash with Fineo for windows that
-   cannot be saved, and Preservan restoration with Fineo for the ones that can,
-   is a coherent offer.
+5. Talk to Brent Hull. He is 200 miles away, he is already negotiating US
+   supply with Fineo, he says in public that retrofit is "not for a repair
+   market" and not his business, and he has no retrofit arm. A Hull sash with
+   Fineo for windows that cannot be saved, and Preservan restoration with Fineo
+   for the ones that can, is a coherent offer, and riding his import channel
+   beats approaching AGC cold.
 
 ## Commercial and historic tax credit channel
 
@@ -204,6 +217,73 @@ Three sourcing options, roughly in order of ease:
    approach to AGC Glass Europe and AGC Glass North America about a US pilot
    partner; the new capacity means they will be looking for export demand.
 
+## What the 427 YouTube comments add
+
+Unverifiable, but several threads come from people who have done this work,
+and Hull's own replies are the closest thing to a primary source on his
+plans. The full digest is in `research/youtube-comments-digest.md`.
+
+**Hull's replies, in his words:**
+
+- US supply: "Not readily available but working on it with Fineo." Target:
+  "We hope to start supplying this in our windows in early 2027." NFRC
+  whole-window testing "next month." He says it is available in Canada (no
+  Canadian distributor could be found; treat as unconfirmed).
+- Positioning: "I don't think this is for a repair market. I also don't
+  think it is right for the south. I think this is a solution for cold
+  climates in the north and north east." That is the maker of a new window
+  product saying the retrofit market is not his. It is open.
+- Price: "adds about $500 to a window", "$300–400", "very comparable to a
+  triple pane European window." He promises a cost sheet.
+- Storms: single pane plus exterior storm "is the MOST historic solution, but
+  a lot of energy code officials don't agree." Code pressure, not physics,
+  is what pushes people off storms.
+- Pillars are visible at certain angles: "Yes, that is true."
+- Mouth-blown restoration glass in a VIG: "Histo-glass, Cooper windows and
+  others." LandVac also offers a Heritage unit with a wavy outer pane.
+
+**Field reports that matter for a retrofit business:**
+
+- The most-liked comment (115 likes) is from someone at a large testing lab:
+  every VIG they tested "had a much larger failure rate than traditional
+  insulated glass. It appears to be a transportation issue. VIGs just don't
+  travel well." UK installers say the same about Fineo 8. Plan for crating,
+  local staging, a breakage allowance, and a 12-month installation guarantee,
+  which one European commenter describes as the industry norm because a unit
+  that survives installation and its first year is expected to last decades.
+- A worker from the Fairmount (Fort Worth) restoration shops: it does not fit
+  the repair trade. One light replaced in VIG reads thicker than its
+  neighbours, small shops cut glass to fit on the bench, and sourcing from
+  overseas wrecks timelines. Implication: sell whole-window, whole-elevation
+  or whole-house projects, never single-light repairs.
+- Two homeowners who did it: a Scottish Victorian townhouse kept its original
+  sashes with VIG and "only needed new weights"; a UK owner just had Fineo
+  fitted house-wide and does "not expect ROI for many years" but wanted a
+  house that "doesn't vent the heat."
+- A restorer's question you will get on every job: original sash is cut to
+  fit on the bench, VIG is made to measure overseas, so what about repaired
+  muntins and narrow rabbets? Hull: "made to fit and we will have and share
+  that data soon." Measuring becomes a skilled, billable step.
+- One commenter notes glazier's points land a quarter inch from the edge of
+  a 7.7 mm unit, so "your muntins better be in pretty good shape." Fineo's
+  own answer is setting blocks, not points.
+
+**Marketing lessons from the pushback:**
+
+- The single most contested claim is "insulated glass will fail in 15–20
+  years." Dozens of people report 30 to 50 year old Andersen, Marvin and
+  European units with no failures; Hull concedes pre-1990 units were better.
+  Lead with historic integrity, comfort and avoiding replacement. Do not lead
+  with "your double pane will fog."
+- The second most common comment is "how much?", often angrily. Publish a
+  per-window price. Hull's refusal to do so cost him the thread.
+- Several experienced preservationists argue a restored sash plus a good
+  storm already performs well (one on 100 gallons of heating oil a year in an
+  1867 house). They are right on energy, which is why the pitch is not energy.
+- Cold-climate commenters (New England, Rocky Mountain west) report IG
+  failures far more than southern ones. Hull's "north and north east" call is
+  consistent with where your sales will come from.
+
 ## Bottom line
 
 - Residential: real but narrow. A premium, shop-based upsell for pre-1940
@@ -218,6 +298,8 @@ Three sourcing options, roughly in order of ease:
   being their US restoration pilot.
 
 ## Sources
+
+- Video comments (427, pulled 4 Oct 2026 via an Invidious mirror of the YouTube comment API): digest in `research/youtube-comments-digest.md`
 
 - Hull video oEmbed: https://www.youtube.com/watch?v=0hmO4PrTLK4
 - 100 Year Window: https://100yearwindow.com/ ; Pro Builder Q&A: https://www.probuilder.com/construction/building-science/article/55226947/qa-maker-of-the-100-year-window-explains-its-durability ; Build Show "Why insulated glass doesn't work on historic windows": https://buildshownetwork.com/bsn-series/brenthull?blog_id=3329 ; GBA thread on Hull and Spacia: https://www.greenbuildingadvisor.com/question/brent-hull-discusses-pilkington-spacia-glass
